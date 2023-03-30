@@ -1,0 +1,6 @@
+Trajectory RMSE:0.040251
+Landmark RMSE:0.022429
+
+TRUE
+Trajectory RMSE:0.051442
+Landmark RMSE:0.013249
